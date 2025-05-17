@@ -11,7 +11,8 @@ More about kubectl [https://kubernetes.io/docs/reference/kubectl/]
 
 # K8S Concept
 ## Cluster Architecture
-![alt text](images\structure.png)
+![alt text](images/structure.png)
+
 K8S has a control plane + a set of worker machines(ndoes)
 = used to run containerized applications
 *Each cluster needs at least one worker node*[ = runing pods]
